@@ -1,7 +1,7 @@
 ## Fast RCNN based object detection on video and image files.
 
-![]([docs/docfx/images/MixtureOpen.gif](https://drive.google.com/file/d/1wrp-7AeHs1XC-_IQNLF8zuUBKcaF8Xtx/view?usp=sharing))
-![](docs/docfx/images/MixtureOpen.gif)
+![airport_mask_rcnn_out_pyonline-video-cutter com-ezgif com-video-to-gif-converter](https://github.com/splendidbug/RCNN-Object-Detection/assets/48771895/1e5e49aa-157b-4f87-b508-0a1a4363619c)
+
 ### Download the necessary weights and files.
 
 Fast RCNN download:
