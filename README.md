@@ -16,8 +16,10 @@ Install requirements:
 
 ### Usage
 
-Image: `python yolo.py --image=zebra.jpg`
+`data` folder contains input image and video
 
-Video: `python3 mask_rcnn.py --video=airport.mp4`
+Image: `python yolo.py --image=data\zebra.jpg`
+
+Video: `python3 mask_rcnn.py --video=data\airport.mp4`
 
 An output file is generated in data folder with marked objects. The output is also shown live as the frames are processed
