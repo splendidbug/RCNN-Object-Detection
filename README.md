@@ -1,5 +1,7 @@
 ## Fast RCNN based object detection on video and image files.
 
+![]([docs/docfx/images/MixtureOpen.gif](https://drive.google.com/file/d/1wrp-7AeHs1XC-_IQNLF8zuUBKcaF8Xtx/view?usp=sharing))
+![](docs/docfx/images/MixtureOpen.gif)
 ### Download the necessary weights and files.
 
 Fast RCNN download:
